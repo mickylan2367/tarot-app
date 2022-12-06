@@ -1,0 +1,47 @@
+0.URANUS
+THE FOOL
+1.Mercury
+THE MAGICIAN
+2.Moon
+The High Priestes
+3.Vevus
+The Empress
+4.Aries
+The Emperor
+5.Taurus
+The Hierophant
+6.Gemini
+Lovers
+7.Cancer
+The Chariot
+8.Leo
+Strength
+9.Virgo
+The Hermit
+10.Jupiter
+Wheel of Fortune
+11.Libra
+Justice
+12.Neptune
+The Hanged Man
+13.Scorpio
+Death
+14.Saggitarius
+Temperance
+15. Capricorn
+The Devil
+16.Mars
+The Tower
+17.Aquarius
+The Star
+18.Pices
+The Moon
+19.Sun
+The Sun
+20.Pluto
+Judgement
+21.Saturn
+The World
+
+
+
