@@ -8,12 +8,12 @@
 ## ReadMe目次
 <ol>
   <li><a href="https://github.com/mickylan2367/tarot-app.git#初めの画面">初めの画面</a></li>
-  <li><a href="https://github.com/mickylan2367/tarot-app.git#ゲーム画面">ゲーム画面</a></li>
+  <li><a href="https://github.com/mickylan2367/tarot-app.git#ゲーム画面(Aries Stage)">ゲーム画面</a></li>
   <ol>
     <li><a href="https://github.com/mickylan2367/tarot-app.git#描画されているもの">描画されているもの</a></li>
     <li><a href="https://github.com/mickylan2367/tarot-app.git#遊び方">遊び方</a></li>
   </ol>
-  <li><a href="https://github.com/mickylan2367/tarot-app.git#反省点">反省点</a></li>
+  <li><a href="https://github.com/mickylan2367/tarot-app.git#反省点">反省点(改善したいところ)</a></li>
 </ol>
 
 <br>
