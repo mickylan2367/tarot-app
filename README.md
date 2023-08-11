@@ -8,7 +8,7 @@
 ## ReadMe目次
 <ol>
   <li><a href="https://github.com/mickylan2367/tarot-app.git#初めの画面">初めの画面</a></li>
-  <li><a href="https://github.com/mickylan2367/tarot-app.git#ゲーム画面-aries-stage)">ゲーム画面</a></li>
+  <li><a href="https://github.com/mickylan2367/tarot-app.git#ゲーム画面-aries-stage">ゲーム画面</a></li>
   <ol>
     <li><a href="https://github.com/mickylan2367/tarot-app.git#描画されているもの">描画されているもの</a></li>
     <li><a href="https://github.com/mickylan2367/tarot-app.git#遊び方">遊び方</a></li>
