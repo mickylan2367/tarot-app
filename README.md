@@ -13,7 +13,7 @@
     <li><a href="https://github.com/mickylan2367/tarot-app.git#描画されているもの">描画されているもの</a></li>
     <li><a href="https://github.com/mickylan2367/tarot-app.git#遊び方">遊び方</a></li>
   </ol>
-  <li><a href="https://github.com/mickylan2367/tarot-app.git#反省点(改善したいところ)">反省点(改善したいところ)</a></li>
+  <li><a href="https://github.com/mickylan2367/tarot-app.git#反省点改善したいところ">反省点(改善したいところ)</a></li>
 </ol>
 
 <br>
