@@ -20,7 +20,7 @@
 
 ## 初めの画面
 <p align="center">
-  <img src="https://github.com/mickylan2367/tarot-app/assets/83509964/dba7ba1d-bbac-42f2-bde6-b0ce0c124ca2" width="800px">
+  <img src="https://user-images.githubusercontent.com/83509964/205849716-8cabb92a-b2d3-4d51-9611-8095db814d6c.png" width="800px">
 </p>
 
 - キラキラ光りながら回るハート、
